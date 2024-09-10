@@ -25,7 +25,7 @@ Packet Tracer: Network simulation and testing for Cisco environments
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px" />
   </a>
 
-- **Gmail**: [Cibaado29@gmail.com](mailto:Cibaado29l@gmail.com)  
+- **Gmail**: [Cibaado29@gmail.com](mailto:Cibaado29@gmail.com)  
   <a href="mailto:Cibaado29@gmail.com">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="20px" />
   </a>
