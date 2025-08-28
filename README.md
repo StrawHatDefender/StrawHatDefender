@@ -1,52 +1,43 @@
-## Welcome to My GitHub 👋
-Hi! I'm Miski, a Network Security Engineer with a passion for cybersecurity and network defense. This GitHub repository will feature my various projects and contributions in FortiGate, Wireshark, pfSense, Snort, and Packet Tracer
+👋 Welcome to My GitHub
 
-Feel free to explore my work, and I’m open to discussions, collaborations, or any feedback that can help improve my skills and knowledge
+Hi! I'm Miski Abdullahi, an Information Technology graduate and aspiring Network Security Engineer with hands-on training in cybersecurity and network defense. This GitHub showcases my projects, labs, and practice work using tools such as FortiGate, Wireshark and Cisco Packet Tracer.
 
-Skills & Tools
+I’m passionate about securing networks, analyzing threats, and building practical solutions. Through my projects, I aim to apply both my academic background and cybersecurity training in real-world scenarios.
 
-FortiGate: Configuration and management of firewalls for secure network operations.
+🛠️ Skills & Tools
 
-Wireshark: Network protocol analysis and packet inspection for troubleshooting.
+Networking & Security: Network design, troubleshooting, and defense strategies
 
-pfSense: Building secure open-source firewalls for network protection.
+FortiGate: Firewall configuration and management for secure network operations
 
-Snort: Intrusion detection and prevention system for network security.
+Wireshark: Protocol analysis, packet inspection, and incident troubleshooting
 
-Packet Tracer: Network simulation and testing for Cisco environments
+Cisco Packet Tracer: Network simulation, testing, and practice for Cisco environments
 
+Linux & Windows: System administration and security fundamentals
 
+📌 Featured Projects
 
+🔐 Network Security Lab – Configuring firewalls and IDS/IPS for simulated enterprise environments
 
-# Let's Connect!
+🌐 Packet Tracer Topologies – Designing and testing secure network architectures
 
-- **LinkedIn**: [Miski Dahir](https://www.linkedin.com/in/miskiabdullahi/)  
-  <a href="https://www.linkedin.com/in/miski-dahir">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px" />
-  </a>
+🛡️ Wireshark Analysis – Capturing and analyzing traffic to detect vulnerabilities
 
-- **Gmail**: [Cibaado29@gmail.com](mailto:Cibaado29@gmail.com)  
-  <a href="mailto:Cibaado29@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="20px" />
-  </a>
+🚀 More projects coming soon…
 
+🤝 Let’s Connect!
 
+LinkedIn: Miski Abdullahi
 
+<a href="https://www.linkedin.com/in/miskiabdullahi/">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" width="20px" />
+</a>
 
+Email: Cibaado29@gmail.com
 
+<a href="mailto:Cibaado29@gmail.com">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="20px" />
+</a>
 
-
-<!--
-**StrawHatDefender/StrawHatDefender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ Always learning, always building. Open to collaboration, feedback, and opportunities in network security and cybersecurity.
